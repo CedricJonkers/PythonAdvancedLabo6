@@ -1,4 +1,5 @@
 {
-    "servers_file": "servers.json",
-    "log_file": "log.json"
+    "logs_file": "data/logs.json",
+    "servers_file": "data/servers.json",
+    "html_template": "template/report_template.html"
 }
